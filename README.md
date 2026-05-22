@@ -1,3 +1,9 @@
+## Team members:
+- Isidora Riquelme Rivera
+- Benjamín Soto Henríquez
+
+
+
 # Final Project
 
 This repository contains our final project for the course IELE756, Preparación y Análisis de Datos. The project focuses on one anomaly found during the work developed in Tarea 3, using the ENO model and the comuna-level residuals.
