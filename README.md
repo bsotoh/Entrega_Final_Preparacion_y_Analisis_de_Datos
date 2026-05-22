@@ -28,11 +28,11 @@ The notebook that produces the headline figure is located in the `notebooks` fol
 
 The file is
 
-`notebooks/Tareas/final_anomaly.ipynb`
+`notebooks/final_anomaly.ipynb`
 
 This notebook produces the main figure used to show the anomaly. The figure is saved as
 
-`notebooks/figs/headline.png`
+`figs/headline.png`
 
 The notebook takes less than 5 seconds to run all cells.
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 Finally, we selected the Datos environment as the kernel in VS Code and ran all the cells in
 
-`notebooks/Tareas/final_anomaly.ipynb.`
+`notebooks/final_anomaly.ipynb.`
 
 ## AI-use disclosure
 We used AI tools throughout the course, mainly to help us give more structure and formality to the code cells and written explanations. We also used AI support in Tarea 3, especially for the regression models, because we did not have enough previous knowledge to code those models completely on our own. Even so, the results, figures, and final interpretation were reviewed by us before being included in the final project.
